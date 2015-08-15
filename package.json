@@ -1,0 +1,22 @@
+{
+  "name": "fill-empty",
+  "version": "0.0.1",
+  "description": "Populate objects with empty values on passed key path",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsifalda/fill-empty.git"
+  },
+  "keywords": [
+    "populate", "objects", "fill empty", "keypath", "defaults"
+  ],
+  "author": "Jiri Sifalda <sifalda.jiri@gmail.com> (http://jsifalda.name/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsifalda/fill-empty/issues"
+  },
+  "homepage": "https://github.com/jsifalda/fill-empty#readme"
+}
