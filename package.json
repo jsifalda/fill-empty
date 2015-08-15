@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jsifalda/fill-empty/issues"
   },
-  "homepage": "https://github.com/jsifalda/fill-empty#readme"
+  "homepage": "https://github.com/jsifalda/fill-empty#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  }
 }
